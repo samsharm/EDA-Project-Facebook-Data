@@ -24,3 +24,5 @@ EDA Aspects:
 8. Pattern on likes based on tenure
 
 ![enter image description here](https://github.com/samsharm/EDA-Project-Facebook-Data/blob/main/Capture.PNG?raw=true)
+
+To checkout my notebook  please click [here](https://github.com/samsharm/EDA-Project-Facebook-Data/blob/main/EDAProject-samtasharma%20%282%29.ipynb)
