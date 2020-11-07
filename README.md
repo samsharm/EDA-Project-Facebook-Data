@@ -1,6 +1,6 @@
-# EDA-Project-Facebook-Data
-Exploratory data analysis on facebook data
-https://github.com/samsharm/EDA-Project-Facebook-Data/blob/main/download8.png?raw=true
+# Exploratory data analysis on Facebook data
+![enter image description here](https://github.com/samsharm/EDA-Project-Facebook-Data/blob/main/download8.png?raw=true)
+
 
 Steps:
 1. This analysis is done by using Pandas, Seaborn, Matplotlib and Numpy packages of Python.
@@ -14,7 +14,7 @@ Steps:
 
 
 EDA Aspects:
-1. Age wise facebook user distribution
+1. Age wise Facebook user distribution
 2. Gender wise user distribution
 3. Age wise Friend count
 4. Gender wise friendship count
