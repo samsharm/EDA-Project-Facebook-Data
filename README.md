@@ -22,3 +22,5 @@ EDA Aspects:
 6. Patterns on likes and likes received
 7. Patterns on mobile vs www (web likes)
 8. Pattern on likes based on tenure
+
+![enter image description here]
