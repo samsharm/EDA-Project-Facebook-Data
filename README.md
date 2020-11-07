@@ -1,15 +1,16 @@
 # EDA-Project-Facebook-Data
 Exploratory data analysis on facebook data
+https://github.com/samsharm/EDA-Project-Facebook-Data/blob/main/download8.png?raw=true
 
 Steps:
-This analysis is done by using Pandas, Seaborn, Matplotlib and Numpy packages of Python.
-Pandas Profiling is being used for data profiling.
-Please see “fb_data_1.html” for pre-profiling.
-There are no duplicate records found.
-Some missing values in ‘gender’ and ‘tenure’ columns have been dropped for consistency.
-Total 98,826 records were available for analysis.
-Please see “fb_data_2.html” for post-profiling.
-Run analysis of different aspects.
+1. This analysis is done by using Pandas, Seaborn, Matplotlib and Numpy packages of Python.
+2. Pandas Profiling is being used for data profiling.
+3. Please see “fb_data_1.html” for pre-profiling.
+4. There are no duplicate records found.
+5. Some missing values in ‘gender’ and ‘tenure’ columns have been dropped for consistency.
+6. Total 98,826 records were available for analysis.
+7. Please see “fb_data_2.html” for post-profiling.
+8. Run analysis of different aspects.
 
 
 EDA Aspects:
