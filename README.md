@@ -23,4 +23,4 @@ EDA Aspects:
 7. Patterns on mobile vs www (web likes)
 8. Pattern on likes based on tenure
 
-![enter image description here]
+![enter image description here](https://github.com/samsharm/EDA-Project-Facebook-Data/blob/main/Capture.PNG?raw=true)
